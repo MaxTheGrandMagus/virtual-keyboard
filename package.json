@@ -1,0 +1,25 @@
+{
+  "name": "virtual-keyboard",
+  "version": "1.0.0",
+  "description": "A virtual keyboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxTheGrandMagus/virtual-keyboard.git"
+  },
+  "author": "Max Batyrov <veyronmclord@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxTheGrandMagus/virtual-keyboard/issues"
+  },
+  "homepage": "https://github.com/MaxTheGrandMagus/virtual-keyboard#readme",
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
