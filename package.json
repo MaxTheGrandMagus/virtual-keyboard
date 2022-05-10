@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/MaxTheGrandMagus/virtual-keyboard#readme",
   "devDependencies": {
-    "eslint": "^8.14.0",
-    "eslint-loader": "^4.0.2"
+    "eslint": "^8.15.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-import": "^2.26.0"
   }
 }
